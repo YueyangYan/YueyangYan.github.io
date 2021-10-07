@@ -21,3 +21,7 @@ Implications: (Here are the words from experts) History has shown that the menta
 ### Countries ranked by GDP
 This is a bar chart created using Chartbuilder showing several countries' GDP.
 ![GDP](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/The_worlds_richest_countries_GDP_chartbuilder.png?raw=true)
+
+### Population For First-Year In Lehigh University Fall 2019
+This is a bar char created using Chartbuilder showing the first-Year class population in Lehigh fall 2019 from CAS(College of Art and Science), Arts/Eng(Arts/Engineering), College of Business, Eng & AS(Engineering & Appl. Sci), and IP Programs(Intercollegiate Programs).
+![Population for first-year](
