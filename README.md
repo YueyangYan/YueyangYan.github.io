@@ -18,3 +18,6 @@ Implications: (Here are the words from experts) History has shown that the menta
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1u_LlHQjsm75hs4jqFg82Hwci9IRiGoCWBwblzCgPw3A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+### Countries ranked by GDP
+This is a bar chart created using Chartbuilder showing several countries' GDP.
+![GDP](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/The_worlds_richest_countries_GDP_chartbuilder.png?raw=true)
