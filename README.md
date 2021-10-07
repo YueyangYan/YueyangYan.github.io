@@ -17,3 +17,6 @@ Implications: (Here are the words from experts) History has shown that the menta
 ### Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1u_LlHQjsm75hs4jqFg82Hwci9IRiGoCWBwblzCgPw3A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+### Chart
+![The_Three_Most_Populatious_Countries_in_the_World_China_India_U S _chartbuilder](https://user-images.githubusercontent.com/90854950/136414695-b3246894-617d-4c52-a2bf-77e6b6d31edf.png)
