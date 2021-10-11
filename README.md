@@ -25,3 +25,7 @@ This is a bar chart created using Chartbuilder showing several countries' GDP.
 ### Population For First-Year In Lehigh University Fall 2019
 This is a bar char created using Chartbuilder showing the first-Year class population in Lehigh fall 2019 from CAS(College of Art and Science), Arts/Eng(Arts/Engineering), College of Business, Eng & AS(Engineering & Appl. Sci), and IP Programs(Intercollegiate Programs).
 ![Population for first-year](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/First-Year_Class_Population_in_Lehigh_Fall_2019_Male_Female_chartbuilder.png?raw=true)
+
+### Student Enrollment in Harvard University Fall 2020
+This is a bar chart created using Chartbuilder showing the student enrollment details in Harvard fall 2020.
+![Enrollment in Harvard](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/Student_Enrollment_in_Harvard_University_Fall_2020_Female_Male_chartbuilder.png?raw=true)
