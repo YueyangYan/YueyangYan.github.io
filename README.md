@@ -29,3 +29,7 @@ This is a bar char created using Chartbuilder showing the first-Year class popul
 ### Student Enrollment in Harvard University Fall 2020
 This is a bar chart created using Chartbuilder showing the student enrollment details in Harvard fall 2020.
 ![Enrollment in Harvard](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/Student_Enrollment_in_Harvard_University_Fall_2020_Female_Male_chartbuilder.png?raw=true)
+
+### Student Enrollment in Lehigh University From 2017 to 2021
+This is a line char created using Chartbuilder showing the student enrollment details in Lehigh University from fall 2017 to 2021. The colleges are College of Art and Science, Arts/Eng(Arts/Engineering), College of Business, Eng & AS(Engineering & Appl. Sci), and IP Programs(Intercollegiate Programs). The data source is from https://oirsa.lehigh.edu/university-profile#wms_accordion-entity_view_1-1. From this investigation, the increasing of freshmen is very prominent, but there is not a huge change for College of Business and College of Engineering & Appl. Sci. The enrollments of CAS is increasing every year.
+![Enrollment from 2017 to 2021](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/Enrollment_of_Lehigh_Univerisity__CAS_Art_Eng_Business_Eng_&_AS_IP_chartbuilder.png?raw=true)
