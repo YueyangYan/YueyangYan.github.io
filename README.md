@@ -35,8 +35,8 @@ This is a line char created using Chartbuilder showing the student enrollment de
 ![Enrollment from 2017 to 2021](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/Enrollment_of_Lehigh_Univerisity__CAS_Art_Eng_Business_Eng_&_AS_IP_chartbuilder.png?raw=true)
 
 ### Life satisfaction in Cantril Ladder (World Happiness Report 2019)
-
-![Life satisfaction in Cantril Ladder](
+This is a line chart created using Chartbuilder showing the life satisfaction in Cantril Ladder. The data source is from ourworldindata.org.
+![Life satisfaction in Cantril Ladder](https://github.com/YueyangYan/YueyangYan.github.io/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
 
 
