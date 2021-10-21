@@ -44,3 +44,7 @@ This is a line chart created using Chartbuilder showing Energy-related carbon di
 
 ### Map Practice
 <iframe src="https://www.google.com/maps/d/embed?mid=1WOGtvcKE5NRsf76RLZa_81VI5kI06_P5" width="640" height="480"></iframe>
+
+### Map Assignment--Top 10 Most Visited Cities in 2019
+This is the top 10 visited cities in 2019, ranked by Howard Travel. The source is from (https://www.howardtravel.com/about-us/blog/item/116-20-most-visited-cities-2019). We can actually see that Thailand has the most visited city--Bangkok, and Turkey has two popular cities. This map can give people a choice if they want to go for a travel.
+<iframe src="https://www.google.com/maps/d/embed?mid=1WOGtvcKE5NRsf76RLZa_81VI5kI06_P5" width="640" height="480"></iframe>
